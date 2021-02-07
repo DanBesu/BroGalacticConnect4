@@ -1,0 +1,3 @@
+
+ui = 'GUI'
+# ui = 'console'

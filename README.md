@@ -10,8 +10,8 @@ Python-based version of the Connect Four Game
   
  ## Functionalities and Experience Details
   
-  ✓ Multiple Themes
-  ✓ Multiple Difficulties
-  ✓ Animations
-  ✓ Background sound
+  - Multiple Themes
+  - Multiple Difficulties
+  - Animations
+  - Background sound
   

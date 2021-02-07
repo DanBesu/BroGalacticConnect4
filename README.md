@@ -19,7 +19,7 @@ Python-based version of the Connect Four Game
   Graphical User Interface:
   
   - main menu window
-![](presentation_images/menu.png)
+  - ![](presentation_images/menu.png)
   
   - settings window
 ![](presentation_images/settings.png)

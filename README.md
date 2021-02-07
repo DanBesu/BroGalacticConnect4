@@ -19,32 +19,32 @@ Python-based version of the Connect Four Game
   Graphical User Interface:
   
   - main menu window
-![](images/menu.png)
+![](presentation%20images/menu.png)
   
   - settings window
-![](images/settings.png)
+![](presentation%20images/settings.png)
 
   - transition to the game
-![](images/transition%20galactic%20mode.png)
+![](presentation%20images/transition%20galactic%20mode.png)
   
   - game window with the galactic theme
-![](images/galactic%20theme.png)
+![](presentation%20images/galactic%20theme.png)
 
   - transition to the game (when bro theme selected)
-![](images/transition%20bro%20mode.png)
+![](presentation%20images/transition%20bro%20mode.png)
 
   - game window with the bro theme (when the bro theme is selected)
-![](images/bro%20mode%20theme.png)
+![](presentation%20images/bro%20mode%20theme.png)
 
   Console User Interface:
   
   - main menu + settings
-![](images/console%20settings.png)
+![](presentation%20images/console%20settings.png)
 
   - the start of the gameplay
-![](images/console%20game1.png)
+![](presentation%20images/console%20game1.png)
 
   - the end of the gameplay
-![](images/console%20game2.png)
+![](presentation%20images/console%20game2.png)
   
  

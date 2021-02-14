@@ -8,6 +8,7 @@ Python-based version of the Connect Four Game
   - AI Computer Moves (minimax algorithm)
   - Console User Interface
   - Graphical User Interface
+  - Unittests (90% service / domain coverage)
   
  ## Functionalities and Experience Details
   

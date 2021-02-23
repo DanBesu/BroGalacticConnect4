@@ -1,5 +1,5 @@
 # BroGalacticConnect4
-Python-based version of the Connect Four Game
+Python-based version of the Connect4 Game
 - University awarded project
 
 ## Used Conceps:

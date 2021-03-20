@@ -5,7 +5,7 @@ Python-based version of the Connect Four Game
 ## Used Conceps:
   - Pygame
   - Layered Architecture
-  - AI Computer Moves (minimax algorithm)
+  - AI Computer Moves (minimax algorithm https://en.wikipedia.org/wiki/Minimax ) 
   - Console User Interface
   - Graphical User Interface
   - Unittests (90% service / domain coverage)
